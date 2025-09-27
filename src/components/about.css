@@ -96,8 +96,8 @@
     box-shadow: 0 2px 8px 0 #222a6844;
   }
   .about-img-box {
-    width: 120px;
-    height: 120px;
+    width: 160px;
+    height: 160px;
     margin: 0 auto 0.7rem auto;
   }
   .about-title {
@@ -136,4 +136,5 @@
     text-align: start;
   }
 }
+
 
