@@ -83,7 +83,7 @@
     min-height: unset;
   }
   .about-card {
-    flex-direction: column;
+    flex-direction: row;
     align-items: stretch;
     padding: 1rem 0.5rem;
     box-shadow: 0 4px 16px 0 #222a6844;
