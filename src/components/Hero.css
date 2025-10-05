@@ -10,7 +10,7 @@
 
 .hero {
   position: relative;
-  min-height: 95vh; /* يغطي الشاشة بالكامل */
+  min-height: 100vh; /* يغطي الشاشة بالكامل */
   width: 100%;
   overflow: hidden;
   display: flex;
