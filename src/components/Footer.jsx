@@ -2,7 +2,7 @@ import React from "react";
 import "./Footer.css";
 
 const links = [
-  { title: "الرئيسية", href: "main" },
+  { title: "الرئيسية", href: "#main" },
   { title: "من انا", href: "#me" },
   { title: "اعمالي", href: "#works" },
   { title: "المطورين", href: "#devs" },
@@ -28,5 +28,6 @@ const Footer = () => (
     </div>
   </footer>
 );
+
 
 export default Footer;
